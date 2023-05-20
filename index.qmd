@@ -1,11 +1,21 @@
 ---
-title: "Welcome"
+title: "Rika Gorn"
+about:
+  template: jolla
+  image: images/rika_bio.jpeg
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rika-gorn/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/RikaGorn
+    - icon: github
+      text: Github
+      href: https://github.com/Rikagx
+    - icon: envelope
+      text: Email
+      href: mailto:rika.gorn@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to my personal website. Feel free to explore.

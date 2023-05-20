@@ -7,6 +7,7 @@ docs/renv/activate.R docs/renv/library docs/renv/settings.dcf docs/renv/staging
 /docs/renv
 /docs/renv/*
 .quarto/
+.DS_Store
 
 /.quarto/
 _site

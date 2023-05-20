@@ -1,9 +1,28 @@
 ---
 title: "About"
+about:
+  template: trestles
+  image: images/rika_bio.jpeg
 ---
 
-About this site
+Rika Gorn is a Senior Solutions Engineer at Posit, where she helps organizations deploy, configure, and use Posit Products and other open source tools.
 
-```{r}
-1 + 1
-```
+## Education
+
+New York University \| New York, NY \| Masters in Public Administration \| Sept 2011 - May 2013
+
+Hunter College \| New York, NY \| B.A in Political Science \| Sept 2004 - May 2008
+
+## Experience
+
+Posit PBC \| Senior Solutions Engineer \| October 2022 - present
+
+Spring Health \| Senior Data Engineering Manager \| Nov 2020 - Sept 2022
+
+Spring Health \| Data Scientist \| Aug 2019 - Nov 2020
+
+Covenant House International \| Director of Data Analytics \| July 2017 - June 2019
+
+Coordinated Behavioral Care, Inc. \| Evaluation & QA Specialist \| Dec 2015 - July 2017
+
+TCC Group \| Analyst \| Feb 2014 - Nov 2015

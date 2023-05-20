@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Rika Gorn",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my personal website. Feel free to explore."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Rika Gorn is a Senior Solutions Engineer at Posit, where she helps organizations deploy, configure, and use Posit Products and other open source tools."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nNew York University | New York, NY | Masters in Public Administration | Sept 2011 - May 2013\nHunter College | New York, NY | B.A in Political Science | Sept 2004 - May 2008"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nPosit PBC | Senior Solutions Engineer | October 2022 - present\nSpring Health | Senior Data Engineering Manager | Nov 2020 - Sept 2022\nSpring Health | Data Scientist | Aug 2019 - Nov 2020\nCovenant House International | Director of Data Analytics | July 2017 - June 2019\nCoordinated Behavioral Care, Inc. | Evaluation & QA Specialist | Dec 2015 - July 2017\nTCC Group | Analyst | Feb 2014 - Nov 2015"
   }
 ]
