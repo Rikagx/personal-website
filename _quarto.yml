@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - eda.qmd
 
 format:
   html:
@@ -20,5 +21,5 @@ format:
 editor: visual
 
 execute:
-  freeze: auto
+  freeze: false
 
