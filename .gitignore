@@ -8,6 +8,13 @@ docs/renv/activate.R docs/renv/library docs/renv/settings.dcf docs/renv/staging
 /docs/renv/*
 .quarto/
 .DS_Store
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 /.quarto/
 _site
