@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/Rikagx/personal-website/index.html</loc>
-    <lastmod>2023-05-23T00:15:28.513Z</lastmod>
+    <lastmod>2023-06-08T13:52:55.196Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rikagx/personal-website/about.html</loc>
-    <lastmod>2023-05-23T00:15:29.141Z</lastmod>
+    <lastmod>2023-06-08T13:52:55.828Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rikagx/personal-website/eda.html</loc>
-    <lastmod>2023-05-23T00:15:32.645Z</lastmod>
+    <lastmod>2023-06-08T13:52:59.468Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Rikagx/personal-website/model.html</loc>
+    <lastmod>2023-06-08T13:53:06.720Z</lastmod>
   </url>
 </urlset>
